@@ -208,6 +208,25 @@ html {
   margin: 7px;
   transition: all .5s ease-in-out;
 }
-.speedcubing-ang:hover {
+.speedcubing-avg:hover {
   transform: rotate(3deg)
+}
+
+/*mods*/
+#terraria {
+  background-color: #530000;
+  text-align: center;
+  color: white;
+  font-family: 'Trebuuchet MS', sans-serif;
+  border: 5px solid red;
+  border-style: ridge;
+  margin-left: 75px;
+  margin-right: 75px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding: 10px;
+  transition: all .5s ease-in-out;
+}
+#terraria:hover {
+  transform: scale(1.05);
 }
