@@ -127,6 +127,10 @@ h2 h3 {
   margin-top: 15px;
   margin-bottom: 15px;
   padding: 10px;
+  transition: all .5s ease-in-out;
+}
+#gaming:hover {
+  transform: scale(1.05)
 }
 .games-hori {
   width: 400px;
