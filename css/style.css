@@ -6,7 +6,7 @@
 
 #nav-container {
   float: left;
-  width: 100%
+  width: 100%;
   position: relative;
 }
 
@@ -36,4 +36,8 @@
 
 #navigation ul li a:hover {
   background-color: #8b0000
+}
+
+body {
+  background-color: #3a3b3c;
 }
