@@ -41,12 +41,10 @@ html {
 
 /*index*/
 
-h2 h3 {
-  text-align: center;
-}
 #personal {
   background-color: #530000;
   text-align: center;
+  color: white;
   font-family: 'Quicksand';
   float: none;
   border: 5px solid red;
@@ -64,6 +62,7 @@ h2 h3 {
 #skills {
   background-color: #530000;
   text-align: left;
+  color: white;
   font-family: 'Quicksand';
   float: left;
   border: 5px solid red;
@@ -81,6 +80,7 @@ h2 h3 {
 #education {
   background-color: #530000;
   text-align: left;
+  color: white;
   font-family: 'Quicksand';
   float: right;
   border: 5px solid red;
@@ -101,6 +101,7 @@ h2 h3 {
 #intro {
   background-color: #530000;
   text-align: center;
+  color: white;
   font-family: 'Quicksand';
   float: none;
   border: 5px solid red;
@@ -118,6 +119,7 @@ h2 h3 {
 #gaming {
   background-color: #530000;
   text-align: left;
+  color: white;
   font-family: 'Quicksand';
   float: left;
   border: 5px solid red;
@@ -176,6 +178,7 @@ h2 h3 {
 #speedcubing {
   background-color: #530000;
   text-align: left;
+  color: white;
   font-family: 'Quicksand';
   float: right;
   border: 5px solid red;
