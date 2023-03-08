@@ -316,8 +316,29 @@ html {
   transform: scale(1.05);
 }
 .calamity-img {
-  width: 100%;
+  width: 0.5em;
   height: auto;
   margin: 7px;
   transition: all .5s ease-in-out;
+}
+.calamity-img:hover {
+  transform: rotate(3deg);
+}
+.thorium-img {
+  width: 1em;
+  height: auto;
+  margin: 7px;
+  transition: all .5s ease-in-out;
+}
+.thorium-img:hover {
+  transform: rotate(3deg);
+}
+.fargo-img {
+  width: 2em;
+  height: auto;
+  margin: 7px;
+  transition: all .5s ease-in-out;
+}
+.fargo-img:hover {
+  transform: rotate(3deg);
 }
