@@ -19,12 +19,11 @@
   float: left;
   display: block;
   right: 50%;
-  margin: 5px;
   position: relative;
   font-family: 'Quicksand';
   font-size: 18px;
 }
-#navigation ui li a {
+#navigation a {
   display: block;
   padding: 10px 20px;
   color: #ffffff;
@@ -99,12 +98,21 @@ h2 h3 {
   float: none;
   border: 5px solid red;
   border-style: ridge;
-  margin-left: 200px;
-  margin-right: 200px;
+  margin-left: 150px;
+  margin-right: 150px;
   margin-top: 20px;
   margin-bottom: 20px;
   padding: 12px;
 }
 #gaming {
-  
+  background-color: #530000;
+  text-align: left;
+  float: left;
+  border: 5px solid red;
+  border-style: ridge;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 10px;
 }
