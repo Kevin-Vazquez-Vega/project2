@@ -32,9 +32,11 @@
 #navigation ul li a:hover {
   background-color: #8b0000
 }
-head body {
-  background-image: linear-gradient(45deg, #383838 25%, #0f0f0f 25%, #0f0f0f 50%, #383838 50%, #383838 75%, #0f0f0f 75%, #0f0f0f 100%);
-  background-size: 56.57px 56.57px;
+html {
+  background-color: #000000;
+  background-image: linear-gradient(45deg, #1a1a1a 25%, transparent 25%, transparent 75%, #1a1a1a 75%), linear-gradient(45deg, #1a1a1a 25%, transparent 25%, transparent 75%, #1a1a1a 75%);
+  background-size: 50px 50px;
+  background-position: 0 0, 25px 25px;
 }
 
 /*index*/
@@ -121,6 +123,19 @@ h2 h3 {
   border: 5px solid red;
   border-style: ridge;
   margin-left: 150px;
+  margin-right: 10px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 10px;
+}
+#speedcubing {
+  background-color: #530000;
+  text-align: left;
+  font-family: 'Quicksand';
+  float: right;
+  border: 5px solid red;
+  border-style: ridge;
+  margin-left: 10px;
   margin-right: 150px;
   margin-top: 15px;
   margin-bottom: 15px;
