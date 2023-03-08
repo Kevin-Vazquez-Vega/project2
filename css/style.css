@@ -33,7 +33,8 @@
   background-color: #8b0000
 }
 head body {
-  background-color: #3a3b3c;
+  background-image: linear-gradient(45deg, #383838 25%, #0f0f0f 25%, #0f0f0f 50%, #383838 50%, #383838 75%, #0f0f0f 75%, #0f0f0f 100%);
+  background-size: 56.57px 56.57px;
 }
 
 /*index*/
@@ -107,6 +108,10 @@ h2 h3 {
   margin-top: 20px;
   margin-bottom: 20px;
   padding: 12px;
+  transition: all .5s ease-in-out;
+}
+#intro:hover {
+  transform: scale(1.05);
 }
 #gaming {
   background-color: #530000;
