@@ -21,6 +21,8 @@
   right: 50%;
   margin: 5px;
   position: relative;
+  font-family: 'Quicksand';
+  font-size: 18px;
 }
 #navigation ui li a {
   display: block;
