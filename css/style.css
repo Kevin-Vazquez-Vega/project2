@@ -172,6 +172,7 @@ h2 h3 {
 .games-hol:hover {
   transform: rotate(3deg)
 }
+
 #speedcubing {
   background-color: #530000;
   text-align: left;
@@ -192,7 +193,6 @@ h2 h3 {
 .speedcubing-norm {
   width: auto;
   height: 390px;
-  padding-right: 0px;
   margin: 7px;
   transition: all .5s ease-in-out;
 }
@@ -202,7 +202,6 @@ h2 h3 {
 .speedcubing-avg {
   width: 400px;
   height: auto;
-  padding-right: 0px;
   margin: 7px;
   transition: all .5s ease-in-out;
 }
