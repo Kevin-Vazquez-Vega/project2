@@ -2,7 +2,6 @@
 #navigation {
   background-color: #530000;
   overflow: hidden;
-  position: relative;
 }
 #nav-container {
   float: left;
@@ -11,17 +10,17 @@
 }
 #navigation ul {
   list-style-type: none;
+  position: relative;
+  left: 40%;
   float: left;
-  left: 50%;
 }
 #navigation ul li {
   float: left;
-  right: 50%;
   display: block;
+  margin: 5px;
 }
 #navigation ui li a {
   display: block;
-  padding: 15px 30px;
   color: #000000;
   text-decoration: none;
 }
@@ -99,4 +98,7 @@ h2 h3 {
   margin-top: 20px;
   margin-bottom: 20px;
   padding: 12px;
+}
+#gaming {
+  
 }
