@@ -128,6 +128,46 @@ h2 h3 {
   margin-bottom: 15px;
   padding: 10px;
 }
+.games-hori {
+  width: 400px;
+  height: auto;
+  padding-left: 0px;
+  margin: 5px;
+  transition: all .5s ease-in-out;
+}
+.games-hori:hover {
+  transform: rotate(3deg);
+}
+.games-ver {
+  width: auto;
+  height: 390px;
+  padding-left: 0px;
+  margin: 5px;
+  transition: all .5s ease-in-out
+}
+.games-ver:hover {
+  transform: rotate(3deg);
+}
+.games-mar {
+  width: 400px;
+  height: 300px;
+  padding-left: 0px;
+  margin: 5px;
+  transition: all .5s ease-in-out;
+}
+.games-mar:hover {
+  transform: rotate(3deg);
+}
+.games-hol {
+  width: 400px;
+  height: 229px;
+  padding-left: 0px;
+  margin: 5px;
+  transition: all .5s ease-in-out;
+}
+.games-hol:hover {
+  transform: rotate(3deg)
+}
 #speedcubing {
   background-color: #530000;
   text-align: left;
