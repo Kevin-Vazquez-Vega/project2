@@ -1,5 +1,39 @@
 /*Pages 1, 2, & 3*/
 #navigation {
-  background-color: #5b0000;
+  background-color: #530000;
   overflow: hidden;
+}
+
+#nav-container {
+  float: left;
+  width: 100%
+  position: relative;
+}
+
+#navigation ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  left: 50%;
+  float: left;
+}
+
+#navigation ul li {
+  float: right;
+  position: relative;
+  right: 50%;
+  display: block;
+  font-family: "Proxima_Nova";
+}
+
+#navigation ui li a {
+  display: block;
+  padding: 12px 20px;
+  color: #000000;
+  text-decoration: none;
+}
+
+#navigation ul li a:hover {
+  background-color: #8b0000
 }
