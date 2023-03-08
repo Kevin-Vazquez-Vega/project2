@@ -190,7 +190,7 @@ html {
   padding: 10px;
   transition: all .5s ease-in-out;
 }
-#speedcubing:hover {
+/* #speedcubing:hover {
   transform: scale(1.05)
 }
 .speedcubing-norm {
@@ -210,4 +210,4 @@ html {
 }
 .speedcubing-ang:hover {
   transform: rotate(3deg)
-}
+} */
