@@ -213,6 +213,23 @@ html {
 }
 
 /*mods*/
+#top {
+  background-color: #530000;
+  text-align: center;
+  color: white;
+  font-family: 'Trebuuchet MS', sans-serif;
+  border: 5px solid red;
+  border-style: ridge;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  padding: 10px;
+  transition: all .5s ease-in-out;
+}
+#top:hover {
+  transform: scale(1.05);
+}
 #terraria {
   background-color: #530000;
   text-align: center;
@@ -228,5 +245,39 @@ html {
   transition: all .5s ease-in-out;
 }
 #terraria:hover {
+  transform: scale(1.05);
+}
+#list {
+  background-color: #530000;
+  text-align: center;
+  color: white;
+  font-family: 'Trebuchet MS', sans-serif;
+  border: 5px solid red;
+  border-style: ridge;
+  margin-left: 75px;
+  margin-right: 75px;
+  margin-top: 25px;
+  margin-bottom:25px;
+  padding: 10px;
+  transition: all .5s ease-in-out;
+}
+@list:hover {
+  transform: scale(1.05);
+}
+#outro {
+  background-color: #530000;
+  text-align: center;
+  color: white;
+  font-family: 'Trebuchet MS', sans-serif;
+  border: 5px solid red;
+  border-style: ridge;
+  margin-left: 75px;
+  margin-right: 75px;
+  margin-top: 25px;
+  margin-bottom:25px;
+  padding: 10px;
+  transition: all .5s ease-in-out;
+}
+#outro:hover {
   transform: scale(1.05);
 }
