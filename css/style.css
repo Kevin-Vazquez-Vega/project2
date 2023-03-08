@@ -316,7 +316,7 @@ html {
   transform: scale(1.05);
 }
 .calamity-img {
-  width: 10em;
+  width: 25em;
   height: auto;
   margin: 7px;
   transition: all .5s ease-in-out;
@@ -325,7 +325,7 @@ html {
   transform: rotate(3deg);
 }
 .thorium-img {
-  width: 12em;
+  width: 25em;
   height: auto;
   margin: 7px;
   transition: all .5s ease-in-out;
@@ -334,7 +334,7 @@ html {
   transform: rotate(3deg);
 }
 .fargo-img {
-  width: 20em;
+  width: 25em;
   height: auto;
   margin: 7px;
   transition: all .5s ease-in-out;
