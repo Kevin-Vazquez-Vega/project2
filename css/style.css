@@ -44,6 +44,7 @@ h2 h3 {
 #personal {
   background-color: #530000;
   text-align: center;
+  font-family: 'Quicksand';
   float: none;
   border: 5px solid red;
   border-style: ridge;
@@ -60,6 +61,7 @@ h2 h3 {
 #skills {
   background-color: #530000;
   text-align: left;
+  font-family: 'Quicksand';
   float: left;
   border: 5px solid red;
   border-style: ridge;
@@ -76,6 +78,7 @@ h2 h3 {
 #education {
   background-color: #530000;
   text-align: left;
+  font-family: 'Quicksand';
   float: right;
   border: 5px solid red;
   border-style: ridge;
