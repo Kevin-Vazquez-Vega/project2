@@ -130,7 +130,7 @@ h2 h3 {
   transition: all .5s ease-in-out;
 }
 #gaming:hover {
-  transform: scale(1.05)
+  transform: scale(1.01)
 }
 .games-hori {
   width: 400px;
@@ -188,4 +188,24 @@ h2 h3 {
 }
 #speedcubing:hover {
   transform: scale(1.05)
+}
+.speedcubing-norm {
+  width: auto;
+  height: 390px;
+  padding-right: 0px;
+  margin: 7px;
+  transition: all .5s ease-in-out;
+}
+.speedcubing-norm:hover {
+  transform: rotate(3deg);
+}
+.speedcubing-avg {
+  width: 400px;
+  height: auto;
+  padding-right: 0px;
+  margin: 7px;
+  transition: all .5s ease-in-out;
+}
+.speedcubing-ang:hover {
+  transform: rotate(3deg)
 }
