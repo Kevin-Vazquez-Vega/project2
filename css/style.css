@@ -262,7 +262,7 @@ html {
   transition: all .5s ease-in-out;
 }
 #calamity:hover {
-  transform: scale(1.05);
+  transform: scale(1.02);
 }
 #thorium {
   background-color: #530000;
