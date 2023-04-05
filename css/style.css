@@ -162,7 +162,7 @@ html {
   transition: all .5s ease-in-out;
 }
 #speedcubing:hover {
-  transform: scale(1.05)
+  transform: scale(1.01)
 }
 .speedcubing-norm {
   width: auto;
