@@ -127,7 +127,7 @@ html {
   text-align: left;
   color: white;
   font-family: 'Quicksand';
-  float: left;
+  float: center;
   border: 5px solid red;
   border-style: ridge;
   margin-left: 150px;
@@ -145,40 +145,24 @@ html {
   height: auto;
   padding-left: 0px;
   margin: 5px;
-  transition: all .5s ease-in-out;
-}
-.games-hori:hover {
-  transform: rotate(3deg);
 }
 .games-ver {
   width: auto;
   height: 390px;
   padding-left: 0px;
   margin: 5px;
-  transition: all .5s ease-in-out
-}
-.games-ver:hover {
-  transform: rotate(3deg);
 }
 .games-mar {
   width: 400px;
   height: 300px;
   padding-left: 0px;
   margin: 5px;
-  transition: all .5s ease-in-out;
-}
-.games-mar:hover {
-  transform: rotate(3deg);
 }
 .games-hol {
   width: 400px;
   height: 229px;
   padding-left: 0px;
   margin: 5px;
-  transition: all .5s ease-in-out;
-}
-.games-hol:hover {
-  transform: rotate(3deg)
 }
 
 #speedcubing {
@@ -186,7 +170,7 @@ html {
   text-align: left;
   color: white;
   font-family: 'Quicksand';
-  float: right;
+  float: center;
   border: 5px solid red;
   border-style: ridge;
   margin-left: 10px;
@@ -203,19 +187,11 @@ html {
   width: auto;
   height: 390px;
   margin: 7px;
-  transition: all .5s ease-in-out;
-}
-.speedcubing-norm:hover {
-  transform: rotate(3deg);
 }
 .speedcubing-avg {
   width: 400px;
   height: auto;
   margin: 7px;
-  transition: all .5s ease-in-out;
-}
-.speedcubing-avg:hover {
-  transform: rotate(3deg)
 }
 
 /*mods*/
