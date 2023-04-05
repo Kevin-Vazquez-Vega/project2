@@ -140,12 +140,6 @@ html {
 #gaming:hover {
   transform: scale(1.01)
 }
-.games-hori {
-  width: 400px;
-  height: auto;
-  padding-left: 0px;
-  margin: 5px;
-}
 .games-ver {
   width: auto;
   height: 390px;
