@@ -127,7 +127,7 @@ html {
   text-align: left;
   color: white;
   font-family: 'Quicksand';
-  float: center;
+  float: left;
   border: 5px solid red;
   border-style: ridge;
   margin-left: 150px;
@@ -170,7 +170,7 @@ html {
   text-align: left;
   color: white;
   font-family: 'Quicksand';
-  float: center;
+  float: right;
   border: 5px solid red;
   border-style: ridge;
   margin-left: 10px;
